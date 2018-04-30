@@ -11,7 +11,7 @@ var registeredBots = {
     }
 }
 
-    "HelpBot": {
+    "SpamSpy": {
         "Author": " Fxdee#7875",
         "Description": "SpamSpy is a bot for everyone.. It helps members entertained and helps admins do ther job | Update 2.0 Coming Very soon",
         "Library": "discord.js",
