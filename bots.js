@@ -8,9 +8,7 @@ var registeredBots = {
         "Library": "discord.js",
         "Support Server": "https://discord.gg/RqsHch7",
         "Website": "https://www.floffah.co.uk/projects/bot"
-    }
-}
-
+    },
     "SpamSpy": {
         "Author": " Fxdee#7875",
         "Description": "SpamSpy is a bot for everyone.. It helps members entertained and helps admins do ther job | Update 2.0 Coming Very soon",
@@ -18,3 +16,4 @@ var registeredBots = {
         "Support Server": "https://discord.gg/xsxjpsX",
         "Website": "N/A"
     }
+}
